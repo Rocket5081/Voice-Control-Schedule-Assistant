@@ -83,7 +83,7 @@ pytz
 
 dateparser
 
-Security
+# Security
 Do not commit .env or token.json.
 
 Use .gitignore to prevent sensitive files from being tracked.
